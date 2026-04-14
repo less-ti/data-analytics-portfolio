@@ -35,7 +35,7 @@
 - Excel
 - CSV
 
-## Проекты:
+## Проекты
 
 ### 1. Дизайн A/B-тестов и симуляции
 **Репозиторий:** [ab-test-design-and-simulation](https://github.com/less-ti/ab-test-design-and-simulation)
